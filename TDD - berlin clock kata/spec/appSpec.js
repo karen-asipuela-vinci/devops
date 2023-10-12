@@ -5,13 +5,14 @@ describe("A suite of test for the demo function of the main class", function() {
     //1 = éteint
     //0 = allumé
     
-    it("function should return 1 when given 0 sec"), function() {
+    it("function should return  ")
+
+
+
+    /**it("function should return 1 when given 0 sec"), function() {
         let result = main.berlinClock(0);
         expect(result).toBe(1);
-    };
-
-    it("function should return ")
-
+    };**/
 
     /**it("fizzBuzz function should return 1 when given 1", function() {
         let result = main.fizzByzz(1);
