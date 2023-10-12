@@ -5,9 +5,10 @@ describe("A suite of test for the demo function of the main class", function() {
     //1 = éteint
     //0 = allumé
     
-    it("function should return  ")
+    it("function should return 1 when given 1  "), function() {
+    let minute = new Date.getminute
 
-
+    }
 
     /**it("function should return 1 when given 0 sec"), function() {
         let result = main.berlinClock(0);

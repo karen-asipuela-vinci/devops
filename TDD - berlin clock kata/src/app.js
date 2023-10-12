@@ -1,7 +1,7 @@
 export class Main {
 
-    berlinClock(seconde) {
-        if(seconde === 0) return 1;
+    berlinClock(minute) {
+        if(minute === 0) return "0000" ;
     }
 
 
